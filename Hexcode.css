@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+}
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+
+.hexcolor{
+    color: white;
+    display: block;
+    font-weight: 700;
+    font-size: 90px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+
+.Btn{
+    display: flex;
+    color: white;
+    justify-content: center;
+    background-color: transparent;
+    font-size: 30px;
+    border: solid white 4px;
+    padding: 10%;
+    border-radius: 6px;
+    box-shadow: 4px 4px 8px 0 rgba(0,0,0,0.5);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    user-select: none;
+}
+.Btn:hover{
+    border-radius: 50px;
+    box-shadow: 8px 8px 16px 0 rgba(0,0,0,0.5);
+    
+}
