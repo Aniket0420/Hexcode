@@ -1,7 +1,7 @@
 # Hexcode
 Hexcode Generator using HTML, CSS, JavaScript
 
-                                                       HEXCODE GENERATOR
+                                                        HEXCODE GENERATOR
 
 ![image](https://user-images.githubusercontent.com/63421462/128160462-e52729c4-f30b-4c65-883c-b1864a73365c.png)
 
