@@ -1,7 +1,7 @@
 # Hexcode
 Hexcode Generator using HTML, CSS, JavaScript
 
-                                                     HEXCODE GENERATOR
+                                                       HEXCODE GENERATOR
 
 ![image](https://user-images.githubusercontent.com/63421462/128160462-e52729c4-f30b-4c65-883c-b1864a73365c.png)
 
@@ -11,4 +11,4 @@ Hexcode Generator using HTML, CSS, JavaScript
 
 ![image](https://user-images.githubusercontent.com/63421462/128160587-cb7621f3-6cb1-40d4-a8d5-93f4e85914dc.png)
 
-                                By clicking on Generate button many more colour will be generated
+                                 By clicking on Generate button many more colour will be generated
